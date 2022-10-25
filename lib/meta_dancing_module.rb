@@ -1,0 +1,1 @@
+ruby bin/dance_party
